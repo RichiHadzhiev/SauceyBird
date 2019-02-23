@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0fcc43d14e478db4288877aa7c76fa55
+timeCreated: 1534352269
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vigtigper DEMO
+  fontNames:
+  - Vigtigper DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
