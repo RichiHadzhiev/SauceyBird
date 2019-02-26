@@ -1,2 +1,2 @@
 # SauceyBird
-This is a Flappy Bird like game.
+This is a Flappy Bird like mobile game.
